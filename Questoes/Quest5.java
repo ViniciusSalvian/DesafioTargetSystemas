@@ -1,3 +1,4 @@
+package Questoes;
 import java.util.Scanner;
 
 public class Quest5 {
